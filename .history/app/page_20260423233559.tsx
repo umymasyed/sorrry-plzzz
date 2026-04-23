@@ -13,62 +13,62 @@ const characters: Character[] = [
   {
     id: 1,
     image: '/img10.jpg',
-    plea: 'you’re my safe place… please forgive me ❤️😭 I love youuu',
+    plea: 'pleaseee maaaaf kr do naaa 🥺👉👈 meowwww… sun lo naaa 💗',
   },
   {
     id: 2,
     image: '/img1.jpg',
-    plea: 'life feels empty without you… please sorrrrry babyy ❤️😭 I really need you',
+    plea: 'areeee sun lo naaa 😭 please maaaaf kr do naaa meowwww 🐾💔',
   },
   {
     id: 3,
     image: '/img12.jpg',
-    plea: 'you mean everything to me… I’m truly sorry ❤️😭 I love you',
+    plea: 'plissss maaaaf kr do naaa 🥺 meowwww… I love youuu 💞',
   },
   {
     id: 4,
     image: '/img11 (10).jpg',
-    plea: 'I miss you more than words… maaf kr do please ❤️😭',
+    plea: 'sun lo naaa ek baarrr 😞 please maaaaf kr do naaa meowwww 🐾💗',
   },
   {
     id: 5,
     image: '/img11 (9).jpg',
-    plea: 'you’re my happiness… ab nhi hoga, unintentionally hua ❤️😭 please forgive me',
+    plea: 'areeee plissss maaaaf kr do naaa 🥺👉👈 meowwww… baat kr lo naaa 💌',
   },
   {
     id: 6,
     image: '/img11 (8).jpg',
-    plea: 'my heart belongs to you… don’t gooo ❤️😭 I’m really sorry',
+    plea: 'pleaseeeee maaaaf kr do naaa 😭 meowwww… don’t gooo 💗',
   },
   {
     id: 7,
     image: '/img11 (7).jpg',
-    plea: 'your silence hurts me… funn m tha qsm s ❤️😭',
+    plea: 'sun lo naaa plissss 🥺 maaaaf kr do naaa meowwww 🐾💞',
   },
   {
     id: 8,
     image: '/img11 (2).jpg',
-    plea: 'I can’t lose you… I need you more than ever ❤️😭 please forgive me',
+    plea: 'pleaseeeee maaaaf kr do naaa 🥺 meowwww… I need youuu 💔💗',
   },
   {
     id: 9,
     image: '/img11 (3).jpg',
-    plea: 'talking to you is my favorite thing… maaf kr do please ❤️😭',
+    plea: 'sun lo naaa 😞 maaaaf kr do naaa pleaseee meowwww 🐾💌',
   },
   {
     id: 10,
     image: '/img11 (4).jpg',
-    plea: 'you’re my forever… just say yes naaa ❤️😭 I’m sorry',
+    plea: 'plissss yesss click kar do na 😭 meowwww… forgive me 💗',
   },
   {
     id: 11,
     image: '/img11 (5).jpg',
-    plea: 'I’m nothing without you… please don’t leave me like this ❤️😭',
+    plea: 'pleaseeeee maaaaf kr do naaa 😭 meowwww… don’t leave 💞',
   },
   {
     id: 12,
     image: '/img11 (6).jpg',
-    plea: 'you’re my everything… sorrrrry naaaw meraa baccha❤️😭 I love you',
+    plea: 'areeee sun lo naaa 🥺 maaaaf kr do naaa meowwww 🐾❤️',
   },
 ];
 export default function Home() {
