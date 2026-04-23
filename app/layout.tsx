@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'I&apos;m Sorry... 💕',
+  title: 'sorrrry💕',
   description: 'A romantic apology website with cute characters to express my feelings',
   generator: 'v0.app',
   icons: {
